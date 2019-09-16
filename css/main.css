@@ -39,24 +39,6 @@ ul {
 .text-blue {
 	color: #104A9E;
 }
-#background-012,
-#background-022,
-#background-0312 {
-    background-size: 65%;
-    background-repeat: no-repeat;
-	background-position-x: -20%;
-	background-position-y: center;
-}
-#background-012 {
-	background-image: url(../img/internship/index/012.png);
-	background-position-y: bottom;
-}
-#background-022 {
-	background-image: url(../img/internship/index/022.png);
-}
-#background-0312 {
-	background-image: url(../img/internship/index/0312.png);
-}
 #block2 tr {
     border-bottom: 10px solid #e9f1f9;
 }
